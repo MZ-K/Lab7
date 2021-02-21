@@ -1,21 +1,21 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "title": "bruh",
+      "author": "mzk",
+      "id": 1
     },
     {
-      "title": "Jesse Owens",
-      "author": "Rowdy Rebel",
+      "title": "drf",
+      "author": "nirmal",
       "id": 2
     }
   ],
   "comments": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Jesse Owens",
+      "author": "Rowdy Rebel",
+      "id": 2
     }
   ],
   "profile": {
